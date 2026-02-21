@@ -27,6 +27,7 @@ Simulated donation transaction dataset.
 - Improve fraud classification accuracy
 
 ## Team members
-Karthika Rajkumar
+Karthika Rajkumar,
 Kaluvayi Sai Rakshitha
+
 B.E CSE (Data Science)
